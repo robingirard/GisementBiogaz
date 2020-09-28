@@ -1,0 +1,9 @@
+name : GisementBiogaz
+dependencies :
+    - python=3.8
+    - geopandas
+    - scipy
+    - pytest
+    - tqdm
+    - matplotlib
+    - numpy
